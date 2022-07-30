@@ -1,0 +1,11 @@
+{
+    "name": "Translator en-rus",
+    "version": "0.1.0",
+    "description": "translate words",
+    "manifest_version": 3,
+    "author": "Korovin Nskita",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Translator"
+    }
+}
